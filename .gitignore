@@ -6,3 +6,12 @@ __pycache__/
 smartops.db
 logs/
 .pytest_cache/
+
+venv/
+deveops/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.env
+*.db
+logs/
