@@ -1,0 +1,8 @@
+venv/
+deveops/
+__pycache__/
+*.pyc
+.env
+smartops.db
+logs/
+.pytest_cache/
